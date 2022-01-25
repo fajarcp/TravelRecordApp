@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRecordApp.Android", "TravelRecordApp.Android\TravelRecordApp.Android.csproj", "{B2FA8038-C04E-450D-8F6B-989742B7452F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelRecordApp", "TravelRecordApp\TravelRecordApp.csproj", "{CF733D02-5B38-4E29-A4F5-12A2F33E7118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelRecordApp", "TravelRecordApp\TravelRecordApp.csproj", "{CF733D02-5B38-4E29-A4F5-12A2F33E7118}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
